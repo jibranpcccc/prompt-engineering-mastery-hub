@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; Context Design Hub</title>
     <link>https://jibranpcccc.github.io/prompt-engineering-mastery-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:02:45 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/prompt-engineering-mastery-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-forum-20261016-1-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:02:45 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-telegram-20261015-1-2026-10-15</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:02:27 GMT</pubDate>
       <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/PromptEngineering Prompt Hackers (Reddit)</title>
-      <link>https://www.reddit.com/r/PromptEngineering/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-reddit-20260914-p1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:53:13 GMT</pubDate>
-      <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: Dedicated subreddit for advanced LLM prompt engineering, chain-of-thought frameworks, few-shot prompting, and system instructions.</description>
     </item>
   </channel>
 </rss>
