@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; Context Design Hub</title>
     <link>https://jibranpcccc.github.io/prompt-engineering-mastery-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:02:40 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/prompt-engineering-mastery-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-forum-20261016-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:02:40 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-forum-20261016-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-discord-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:26:51 GMT</pubDate>
       <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
-      <link>https://www.reddit.com/r/aws/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/prompt-engineering-mastery-hub/#prompt-engineering-mastery-hub-reddit-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:02:50 GMT</pubDate>
-      <description>Newly verified community added to Prompt Engineering &amp; Context Design Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
     </item>
   </channel>
 </rss>
